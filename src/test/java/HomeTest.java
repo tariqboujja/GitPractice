@@ -1,7 +1,8 @@
 public class HomeTest {
-    String name = "Kuba";
-    String role = "Instructor";
-    int id = 99;
-    String email = "Kuba@test.com";
+    String name = "Tariq";
+    String role = "Student";
+    int id = 88;
+    String email = "Tariq@test.com";
+    String collaborator = "myself";
 
 }
